@@ -1,5 +1,5 @@
 {
   "project": "Commerce Storefronts",
   "editUrlLabel": "Document Authoring",
-  "editUrlPattern": "https://da.live/edit#/chelsea-hk3/commerce-storefronts"
+  "editUrlPattern": "https://da.live/edit#/chelsea-hk3/commerce-storefronts/{{pathname}}"
 }
