@@ -1,0 +1,26 @@
+{
+  "public": {
+    "default": {
+      "commerce-core-endpoint": "https://test-www-casio-com-aem.casio.jp/us/graphql",
+      "commerce-endpoint": "https://catalog-service-sandbox.adobe.io/graphql",
+      "headers": {
+        "all": {
+          "Store": "default"
+        },
+        "cs": {
+          "Magento-Customer-Group": "b6589fc6ab0dc82cf12099d1c2d40ab994e8410c",
+          "Magento-Store-Code": "main_website_store",
+          "Magento-Store-View-Code": "us_store_view",
+          "Magento-Website-Code": "us",
+          "x-api-key": "4bb2f53e6e0041fa9d2f64bb5a0d23a3",
+          "Magento-Environment-Id": "12170a37-ecf3-48f5-9143-f8527e47f97c"
+        }
+      },
+      "plugins": {
+        "picker": {
+           "rootCategory": "4"
+         }
+      }
+    }
+  }
+}
